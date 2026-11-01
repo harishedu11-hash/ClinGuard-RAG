@@ -12,21 +12,31 @@ correct = 0
 for idx, row in sample_df.iterrows():
 
     prompt = f"""
-You are reviewing a clinical note.
+You are a clinical note auditor.
 
-Your job is NOT to suggest improvements.
+Example 1
 
-Your job is ONLY to determine whether the note contains a clear medical error.
+Clinical Note:
+A 5-year-old girl is brought to the physician because she avoids eye contact, repeats behaviors, and has difficulty interacting with peers. Patient was diagnosed with autism spectrum disorder.
 
-If the note is medically reasonable, respond:
-
+Answer:
 NO_ERROR
 
-If the note contains a clear diagnosis, treatment, management, pharmacotherapy, or causal organism error, respond:
 
+Example 2
+
+Clinical Note:
+A patient with clear symptoms and laboratory findings consistent with bacterial pneumonia is documented as having a viral infection.
+
+Answer:
 ERROR
 
-Return EXACTLY one word.
+
+Task
+
+Determine whether the following clinical note contains a clear medical error.
+
+Only return one word:
 
 ERROR
 

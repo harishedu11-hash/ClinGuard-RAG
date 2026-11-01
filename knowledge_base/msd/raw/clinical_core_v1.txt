@@ -1,0 +1,251 @@
+========================================================
+CARDIOMETABOLIC DOMAIN
+========================================================
+
+TYPE 2 DIABETES MELLITUS
+
+Symptoms:
+- Polyuria
+- Polydipsia
+- Polyphagia
+- Fatigue
+- Weight loss
+
+Management:
+- Lifestyle modification
+- Weight reduction
+- Glycemic control
+
+Treatment:
+- Metformin
+- SGLT2 inhibitors
+- GLP-1 receptor agonists
+- Insulin
+
+Associated Conditions:
+- Hypertension
+- Chronic Kidney Disease
+- Coronary Artery Disease
+- Peripheral Neuropathy
+- Retinopathy
+- Foot Ulcers
+- Recurrent Infections
+
+Contraindications:
+- Severe renal dysfunction may require treatment adjustment
+
+--------------------------------------------------------
+
+HYPERTENSION
+
+Symptoms:
+- Often asymptomatic
+- Headache
+- Dizziness
+
+Management:
+- Blood pressure monitoring
+- Salt restriction
+- Weight loss
+
+Treatment:
+- ACE inhibitors
+- ARBs
+- Calcium channel blockers
+- Thiazide diuretics
+
+Associated Conditions:
+- Diabetes
+- CKD
+- CAD
+- Heart Failure
+
+Contraindications:
+- Monitor renal function in CKD
+
+--------------------------------------------------------
+
+HEART FAILURE
+
+Symptoms:
+- Dyspnea
+- Orthopnea
+- Peripheral edema
+- Fatigue
+
+Management:
+- Volume assessment
+- Daily weight monitoring
+
+Treatment:
+- ACE inhibitors
+- Beta blockers
+- Diuretics
+- SGLT2 inhibitors
+
+Associated Conditions:
+- Hypertension
+- CAD
+- CKD
+- Atrial Fibrillation
+
+Contraindications:
+- NSAIDs may worsen heart failure
+
+--------------------------------------------------------
+
+CHRONIC KIDNEY DISEASE
+
+Symptoms:
+- Fatigue
+- Edema
+- Hypertension
+
+Management:
+- Renal function monitoring
+- Control blood pressure
+
+Treatment:
+- ACE inhibitors
+- ARBs when appropriate
+
+Associated Conditions:
+- Diabetes
+- Hypertension
+- Cardiovascular Disease
+
+Contraindications:
+- Avoid nephrotoxic medications
+- Avoid unnecessary NSAIDs
+
+========================================================
+========================================================
+RESPIRATORY DOMAIN
+========================================================
+
+COMMUNITY ACQUIRED PNEUMONIA
+
+Symptoms:
+- Fever
+- Chills
+- Productive cough
+- Dyspnea
+- Lung consolidation
+
+Common Organisms:
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+
+Management:
+- Clinical assessment
+- Chest imaging when indicated
+
+Treatment:
+- Appropriate antibiotic therapy
+
+Associated Conditions:
+- COPD
+- Diabetes
+- Immunocompromised states
+
+--------------------------------------------------------
+
+COPD
+
+Symptoms:
+- Chronic cough
+- Sputum production
+- Dyspnea
+
+Management:
+- Smoking cessation
+- Pulmonary rehabilitation
+
+Treatment:
+- Bronchodilators
+- Inhaled therapies
+
+Associated Conditions:
+- Smoking history
+- Cardiovascular disease
+
+========================================================
+
+TRAUMA AND EMERGENCY DOMAIN
+========================================================
+
+HEMORRHAGIC SHOCK
+
+Findings:
+- Hypotension
+- Tachycardia
+- Altered mental status
+
+Management:
+- Rapid bleeding control
+- Fluid resuscitation
+- Blood transfusion
+
+--------------------------------------------------------
+
+ABDOMINAL TRAUMA
+
+Findings:
+- Abdominal tenderness
+- Distension
+- Hypotension
+
+Management:
+- FAST examination
+- Surgical evaluation if unstable
+
+--------------------------------------------------------
+
+TENSION PNEUMOTHORAX
+
+Findings:
+- Respiratory distress
+- Hypotension
+- Decreased breath sounds
+
+Management:
+- Immediate decompression
+- Chest tube placement
+
+========================================================
+
+DRUG INTERACTION DOMAIN
+========================================================
+
+LISINOPRIL + TMP-SMX
+
+Risk:
+- Severe hyperkalemia
+
+Recommendation:
+- Monitor potassium closely
+- Consider alternative therapy
+
+--------------------------------------------------------
+
+WARFARIN + ANTIBIOTICS
+
+Risk:
+- Elevated INR
+- Increased bleeding risk
+
+Recommendation:
+- Monitor INR carefully
+
+--------------------------------------------------------
+
+NSAIDS + CKD
+
+Risk:
+- Acute kidney injury
+- Worsening renal function
+
+Recommendation:
+- Avoid when possible
+
+========================================================

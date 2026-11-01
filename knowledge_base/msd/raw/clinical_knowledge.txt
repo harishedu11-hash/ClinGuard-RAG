@@ -1,0 +1,66 @@
+GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+
+Symptoms:
+- Heartburn
+- Regurgitation
+- Symptoms worse after meals
+- Symptoms worse when lying down
+
+Management:
+- Weight loss
+- Avoid late meals
+- Lifestyle modification
+
+Treatment:
+- Proton pump inhibitors (PPIs)
+- H2 receptor blockers
+
+
+COMMUNITY ACQUIRED PNEUMONIA
+
+Symptoms:
+- Fever
+- Chills
+- Productive cough
+- Lung consolidation
+
+Common Bacterial Cause:
+- Streptococcus pneumoniae
+
+Management:
+- Clinical evaluation
+- Chest imaging when appropriate
+
+Treatment:
+- Appropriate antibiotic therapy
+
+
+HYPERTENSION
+
+Definition:
+- Persistently elevated blood pressure
+
+Management:
+- Lifestyle modification
+- Blood pressure monitoring
+
+Treatment:
+- ACE inhibitors
+- ARBs
+- Calcium channel blockers
+- Thiazide diuretics
+
+
+DRUG INTERACTION
+
+ACE Inhibitors:
+- Lisinopril
+
+Potential Risk:
+- Hyperkalemia
+
+Potential interacting medications:
+- Trimethoprim-sulfamethoxazole (TMP-SMX)
+
+Clinical concern:
+- Increased risk of severe hyperkalemia

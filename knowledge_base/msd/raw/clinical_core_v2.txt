@@ -1,0 +1,172 @@
+========================================================
+RESPIRATORY DOMAIN
+========================================================
+
+COMMUNITY ACQUIRED PNEUMONIA
+
+Findings:
+- Fever
+- Chills
+- Productive cough
+- Dyspnea
+- Lung consolidation
+
+Common Organisms:
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+- Mycoplasma pneumoniae
+
+Management:
+- Clinical evaluation
+- Chest imaging
+- Antibiotic therapy when indicated
+
+Associated Conditions:
+- Diabetes
+- COPD
+- Immunocompromised state
+
+--------------------------------------------------------
+
+COPD
+
+Findings:
+- Chronic cough
+- Sputum production
+- Dyspnea
+
+Management:
+- Smoking cessation
+- Bronchodilators
+
+========================================================
+
+========================================================
+DRUG INTERACTION
+========================================================
+
+LISINOPRIL + TMP-SMX
+
+Risk:
+- Severe hyperkalemia
+
+Mechanism:
+- Potassium retention
+
+Management:
+- Monitor potassium
+- Consider alternative antibiotic
+
+--------------------------------------------------------
+
+WARFARIN + ANTIBIOTICS
+
+Risk:
+- Elevated INR
+- Bleeding
+
+Management:
+- Monitor INR
+- Consider dose adjustment
+
+--------------------------------------------------------
+
+NSAIDS + CKD
+
+Risk:
+- Acute kidney injury
+- Worsening renal function
+
+Management:
+- Avoid if possible
+- Monitor renal function
+
+--------------------------------------------------------
+
+NSAIDS + HEART FAILURE
+
+Risk:
+- Worsening heart failure
+- Fluid retention
+
+Management:
+- Avoid when possible
+
+========================================================
+
+TRAUMA
+========================================================
+
+HEMORRHAGIC SHOCK
+
+Findings:
+- Hypotension
+- Tachycardia
+- Altered mental status
+
+Management:
+- Bleeding control
+- Blood transfusion
+- Fluid resuscitation
+
+--------------------------------------------------------
+
+ABDOMINAL TRAUMA
+
+Findings:
+- Distended abdomen
+- Tenderness
+- Hypotension
+
+Management:
+- FAST exam
+- Surgical evaluation
+
+--------------------------------------------------------
+
+OPEN FRACTURE
+
+Findings:
+- Bone exposed
+- Severe pain
+
+Management:
+- Early antibiotics
+- Orthopedic consultation
+
+========================================================
+
+INFECTIOUS DISEASE
+========================================================
+
+PYELONEPHRITIS
+
+Findings:
+- Fever
+- Flank pain
+- Costovertebral angle tenderness
+- Pyuria
+
+Management:
+- Antibiotics
+- Consider admission if severe
+
+Associated Conditions:
+- Pregnancy
+- Diabetes
+
+--------------------------------------------------------
+
+SEPSIS
+
+Findings:
+- Fever
+- Tachycardia
+- Hypotension
+
+Management:
+- Blood cultures
+- Broad spectrum antibiotics
+- Fluid resuscitation
+
+========================================================
