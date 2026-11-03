@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🛡️ ClinGuard-RAG
 
 ### A Clinical Decision Support and Safety Validation Framework for Reducing Diagnostic and Management Errors
