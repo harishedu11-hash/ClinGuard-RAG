@@ -1,0 +1,112 @@
+### DOCUMENT
+
+TYPE 2 DIABETES MELLITUS
+
+Findings:
+- Polyuria
+- Polydipsia
+- Polyphagia
+- Fatigue
+
+Management:
+- Lifestyle modification
+- Metformin
+- Glycemic control
+
+Associated Conditions:
+- Chronic Kidney Disease
+- Coronary Artery Disease
+- Peripheral Neuropathy
+
+Clinical Concern:
+- Increased infection risk
+
+
+### DOCUMENT
+
+CHRONIC KIDNEY DISEASE
+
+Findings:
+- Fatigue
+- Edema
+- Hypertension
+
+Management:
+- Blood pressure control
+- Renal function monitoring
+
+Associated Conditions:
+- Diabetes
+- Cardiovascular disease
+
+Clinical Concern:
+- Drug dose adjustment
+
+
+### DOCUMENT
+
+HEART FAILURE
+
+Findings:
+- Dyspnea
+- Orthopnea
+- Peripheral edema
+
+Management:
+- ACE inhibitors
+- Beta blockers
+- Diuretics
+
+Associated Conditions:
+- Hypertension
+- Coronary Artery Disease
+- CKD
+
+Clinical Concern:
+- Avoid NSAIDs when possible
+
+
+### DOCUMENT
+
+HYPERTENSION
+
+Findings:
+- Elevated blood pressure
+- Headache
+- Often asymptomatic
+
+Management:
+- Blood pressure monitoring
+- Lifestyle modification
+- Antihypertensive therapy
+
+Associated Conditions:
+- Diabetes
+- Chronic Kidney Disease
+- Heart Failure
+
+Clinical Concern:
+- Cardiovascular risk
+
+
+### DOCUMENT
+
+ACUTE KIDNEY INJURY
+
+Findings:
+- Rising creatinine
+- Reduced urine output
+- Fluid overload
+
+Management:
+- Identify underlying cause
+- Review medications
+- Monitor renal function
+
+Associated Conditions:
+- CKD
+- Sepsis
+- Nephrotoxic medications
+
+Clinical Concern:
+- Rapid deterioration of kidney function

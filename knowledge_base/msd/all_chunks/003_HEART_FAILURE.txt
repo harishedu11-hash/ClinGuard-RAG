@@ -1,0 +1,19 @@
+HEART FAILURE
+
+Findings:
+- Dyspnea
+- Orthopnea
+- Peripheral edema
+
+Management:
+- ACE inhibitors
+- Beta blockers
+- Diuretics
+
+Associated Conditions:
+- Hypertension
+- Coronary Artery Disease
+- CKD
+
+Clinical Concern:
+- Avoid NSAIDs when possible

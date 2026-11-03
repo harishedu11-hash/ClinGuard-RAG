@@ -1,0 +1,192 @@
+### DOCUMENT
+
+COMMUNITY ACQUIRED PNEUMONIA
+
+Findings:
+- Fever
+- Chills
+- Productive cough
+- Dyspnea
+- Lung consolidation
+
+Common Organisms:
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+- Mycoplasma pneumoniae
+
+Management:
+- Clinical evaluation
+- Chest imaging
+- Appropriate antibiotic therapy
+
+Associated Conditions:
+- Diabetes
+- COPD
+- Immunocompromised state
+
+
+### DOCUMENT
+
+COPD
+
+Findings:
+- Chronic cough
+- Sputum production
+- Dyspnea
+
+Management:
+- Smoking cessation
+- Pulmonary rehabilitation
+- Bronchodilators
+
+Associated Conditions:
+- Cardiovascular disease
+- Smoking history
+
+
+### DOCUMENT
+
+LISINOPRIL + TMP-SMX
+
+Risk:
+- Severe hyperkalemia
+
+Mechanism:
+- Potassium retention
+
+Management:
+- Monitor serum potassium
+- Consider alternative antibiotic therapy
+
+Clinical Concern:
+- Drug interaction
+
+
+### DOCUMENT
+
+WARFARIN + ANTIBIOTICS
+
+Risk:
+- Elevated INR
+- Increased bleeding risk
+
+Management:
+- Monitor INR
+- Consider warfarin dose adjustment
+
+Clinical Concern:
+- Drug interaction
+
+
+### DOCUMENT
+
+NSAIDS + CKD
+
+Risk:
+- Acute kidney injury
+- Worsening renal function
+
+Management:
+- Avoid when possible
+- Monitor renal function
+
+Clinical Concern:
+- Drug interaction
+
+
+### DOCUMENT
+
+NSAIDS + HEART FAILURE
+
+Risk:
+- Fluid retention
+- Worsening heart failure
+
+Management:
+- Avoid when possible
+
+Clinical Concern:
+- Drug interaction
+
+
+### DOCUMENT
+
+PYELONEPHRITIS
+
+Findings:
+- Fever
+- Flank pain
+- Costovertebral angle tenderness
+- Pyuria
+
+Management:
+- Antibiotic therapy
+- Consider admission if severe
+
+Associated Conditions:
+- Pregnancy
+- Diabetes
+
+
+### DOCUMENT
+
+SEPSIS
+
+Findings:
+- Fever
+- Tachycardia
+- Hypotension
+- Altered mental status
+
+Management:
+- Blood cultures
+- Broad-spectrum antibiotics
+- Fluid resuscitation
+
+Clinical Concern:
+- Medical emergency
+
+
+### DOCUMENT
+
+ABDOMINAL TRAUMA
+
+Findings:
+- Distended abdomen
+- Abdominal tenderness
+- Hypotension
+
+Management:
+- FAST examination
+- Surgical evaluation
+- Hemodynamic monitoring
+
+
+### DOCUMENT
+
+HEMORRHAGIC SHOCK
+
+Findings:
+- Hypotension
+- Tachycardia
+- Altered mental status
+
+Management:
+- Bleeding control
+- Blood transfusion
+- Fluid resuscitation
+
+
+### DOCUMENT
+
+OPEN FRACTURE
+
+Findings:
+- Bone exposure
+- Severe pain
+- Soft tissue injury
+
+Management:
+- Early antibiotics
+- Orthopedic consultation
+- Fracture stabilization

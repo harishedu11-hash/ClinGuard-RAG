@@ -1,0 +1,30 @@
+OPEN FRACTURE
+
+Findings:
+- Bone exposed
+- Severe pain
+
+Management:
+- Early antibiotics
+- Orthopedic consultation
+
+========================================================
+
+INFECTIOUS DISEASE
+========================================================
+
+PYELONEPHRITIS
+
+Findings:
+- Fever
+- Flank pain
+- Costovertebral angle tenderness
+- Pyuria
+
+Management:
+- Antibiotics
+- Consider admission if severe
+
+Associated Conditions:
+- Pregnancy
+- Diabetes

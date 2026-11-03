@@ -1,0 +1,20 @@
+TYPE 2 DIABETES MELLITUS
+
+Findings:
+- Polyuria
+- Polydipsia
+- Polyphagia
+- Fatigue
+
+Management:
+- Lifestyle modification
+- Metformin
+- Glycemic control
+
+Associated Conditions:
+- Chronic Kidney Disease
+- Coronary Artery Disease
+- Peripheral Neuropathy
+
+Clinical Concern:
+- Increased infection risk

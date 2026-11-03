@@ -14,9 +14,8 @@ with open(KNOWLEDGE_FILE, "r") as f:
 
 chunks = []
 
-for chunk in text.split(
-    "--------------------------------------------------------"
-):
+for chunk in text.split("--------------------------------------------------------"):
+
     chunk = chunk.strip()
 
     if len(chunk) > 20:
@@ -57,26 +56,35 @@ clinical_note = input(
 )
 
 # =====================================================
-# AGENT 1 - AUDITOR
+# AGENT 1
 # =====================================================
 
 audit_prompt = f"""
-You are a clinical auditor.
+You are an expert clinical safety reviewer.
 
-Determine whether the clinical note
-contains a medical error.
+Consider whether the note contains:
 
-Respond with EXACTLY one word.
+- Diagnosis errors
+- Treatment errors
+- Pharmacotherapy errors
+- Drug interaction errors
+- Management errors
+
+Be conservative.
+
+If a potentially harmful clinical inconsistency,
+drug interaction,
+contraindication,
+or incorrect management decision exists,
+return:
 
 ERROR
 
-or
+Otherwise return:
 
 NO_ERROR
 
-Do not explain.
-Do not provide reasoning.
-Do not provide any other text.
+Return EXACTLY one word.
 
 Clinical Note:
 
@@ -109,11 +117,88 @@ print("=" * 80)
 print(agent1_output)
 
 # =====================================================
-# AGENT 2 - RETRIEVAL
+# AGENT 1.5
+# =====================================================
+
+concept_prompt = f"""
+You are a clinical concept extractor.
+
+Extract concepts in the following format.
+
+Symptoms:
+...
+
+Medications:
+...
+
+Diagnoses:
+...
+
+Organisms:
+...
+
+Procedures:
+...
+
+Return only extracted concepts.
+
+Clinical Note:
+
+{clinical_note}
+"""
+
+concept_result = ollama.chat(
+    model="llama3.1:8b",
+    messages=[
+        {
+            "role": "user",
+            "content": concept_prompt
+        }
+    ]
+)
+
+concept_text = (
+    concept_result["message"]["content"]
+    .strip()
+)
+
+retrieval_query = concept_text
+
+# prioritize medication retrieval
+
+if "Medications:" in concept_text:
+
+    medication_section = (
+        concept_text.split("Medications:")[1]
+    )
+
+    stop_markers = [
+        "Diagnoses:",
+        "Organisms:",
+        "Procedures:"
+    ]
+
+    for marker in stop_markers:
+
+        if marker in medication_section:
+            medication_section = medication_section.split(marker)[0]
+
+    medication_section = medication_section.strip()
+
+    if medication_section:
+        retrieval_query = medication_section
+
+print("\n" + "=" * 80)
+print("AGENT 1.5 CONCEPTS")
+print("=" * 80)
+print(retrieval_query)
+
+# =====================================================
+# AGENT 2
 # =====================================================
 
 query_embedding = embed_model.encode(
-    [clinical_note],
+    [retrieval_query],
     convert_to_numpy=True
 )
 
@@ -152,7 +237,7 @@ for rank, idx in enumerate(indices[0]):
     )
 
 # =====================================================
-# AGENT 3 - VERIFIER
+# AGENT 3
 # =====================================================
 
 verify_prompt = f"""
@@ -168,16 +253,19 @@ Retrieved Evidence:
 
 Instructions:
 
-1. Review all retrieved evidence.
+1. Determine the single most relevant evidence.
 
-2. Determine which evidence is clinically
-most relevant.
+2. Ignore unrelated evidence.
 
-3. Ignore unrelated evidence.
+3. Decide whether the note is:
 
-4. Decide if the note is SUPPORTED or CONTRADICTED.
+SUPPORTED
 
-5. If contradicted, provide a corrected statement.
+or
+
+CONTRADICTED
+
+4. If contradicted, provide a corrected statement.
 
 Format:
 
@@ -200,12 +288,4 @@ verify_result = ollama.chat(
             "content": verify_prompt
         }
     ]
-)
-
-print("\n" + "=" * 80)
-print("AGENT 3")
-print("=" * 80)
-
-print(
-    verify_result["message"]["content"]
 )

@@ -1,0 +1,15 @@
+SEPSIS
+
+Findings:
+- Fever
+- Tachycardia
+- Hypotension
+- Altered mental status
+
+Management:
+- Blood cultures
+- Broad-spectrum antibiotics
+- Fluid resuscitation
+
+Clinical Concern:
+- Medical emergency

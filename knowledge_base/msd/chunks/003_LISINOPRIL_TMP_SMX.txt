@@ -1,0 +1,14 @@
+LISINOPRIL + TMP-SMX
+
+Risk:
+- Severe hyperkalemia
+
+Mechanism:
+- Potassium retention
+
+Management:
+- Monitor serum potassium
+- Consider alternative antibiotic therapy
+
+Clinical Concern:
+- Drug interaction
